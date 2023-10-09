@@ -2,8 +2,8 @@
 	"credit": "Made by Miffen Kop!",
 	"texture_size": [1000, 320],
 	"textures": {
-		"0": "minecraft-wiki:flat_resized",
-		"particle": "minecraft-wiki:flat_resized"
+		"0": "minecraft-wiki:flat",
+		"particle": "minecraft-wiki:flat"
 	},
 	"elements": [
 		{
