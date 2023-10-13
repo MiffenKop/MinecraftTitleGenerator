@@ -273,13 +273,13 @@
   {
     "id": "minecraft-wiki",
     "author": "Miffen Kop",
-    "width": 18,
-    "height": 24,
+    "width": 28,
+    "height": 48,
     "border": 288,
     "faces": [
-      [8, 48],
-      [64, 104],
-      [120, 160]
+      [2, 44],
+      [54, 94],
+      [104, 144]
     ],
     "ends": [
       [0, 8, 48, 56],
