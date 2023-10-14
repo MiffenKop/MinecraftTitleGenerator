@@ -6,7 +6,7 @@
   },
   "overlays": {
     "nothing": {
-      "name": "nothing",
+      "name": "Overlay",
       "author": "Miffen Kop"
     }
   }
