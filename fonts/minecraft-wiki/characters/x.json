@@ -174,8 +174,5 @@
 				"down": {"uv": [0.16, 16, 0.128, 15.6], "texture": "#1"}
 			}
 		}
-	],
-	"texture": {
-		"#status": "ssbrc:fighters/snake/items/anti_personnel_mine/default/active"
 	}
 }
