@@ -1,12 +1,19 @@
 [
   {
     "id": "minecraft-ten",
-    "width": 32,
     "variants": [
+      {
+        "id": "minecraft-ten-v2",
+        "name": "Version 2",
+        "description": "Minecraft Ten Version 2 is a newer version of Minecraft Ten with some tweaks to some characters, most notably `&` and `?`.",
+        "author": "Ewan Howell",
+        "preview": "e&?"
+      },
       {
         "id": "minecraft-ten-cyrillic",
         "name": "Cyrillic",
         "author": "xllifi",
+        "preview": "абв",
         "example": [
           "пример",
           "текст😳"
@@ -28,7 +35,6 @@
   {
     "id": "minecraft-five-bold",
     "author": "Ewan Howell",
-    "width": 36,
     "height": 36,
     "border": 212,
     "faces": [
@@ -39,7 +45,7 @@
     "ends": [
       [0, 16, 48, 64],
       [66, 82, 114, 130],
-      [132, 148, 186, 194]
+      [132, 148, 194, 210]
     ],
     "terminatorSpace": true,
     "variants": [
@@ -47,6 +53,7 @@
         "id": "minecraft-five-bold-cyrillic",
         "name": "Cyrillic",
         "author": "xllifi",
+        "preview": "абв",
         "example": [
           "пример",
           "текст😳"
@@ -68,7 +75,6 @@
   {
     "id": "minecraft-five-bold-block",
     "author": "Ewan Howell",
-    "width": 40,
     "height": 52,
     "border": 246,
     "faces": [
@@ -82,13 +88,12 @@
       [164, 180, 228, 244]
     ],
     "autoBorder": true,
-    "forcedTerminators": [310, 180, 318, 180, 6, 48],
+    "forcedTerminators": true,
     "overlay": true
   },
   {
     "id": "minecraft-ten-outline",
     "author": "Ewan Howell",
-    "width": 32,
     "height": 60,
     "border": 186,
     "faces": [
@@ -102,12 +107,12 @@
       [124, 124, 184, 184]
     ],
     "borderless": true,
-    "forcedTerminators": [254, 124, 264, 124, 8, 60]
+    "forcedTerminators": true,
+    "flat": true
   },
   {
     "id": "minecraft-dungeons",
     "author": "ShrimpSnail & Ewan Howell",
-    "width": 32,
     "height": 44,
     "border": 266,
     "faces": [
@@ -120,6 +125,60 @@
       [86, 108, 148, 170],
       [172, 194, 242, 264]
     ]
+  },
+  {
+    "id": "minecraft-gui",
+    "author": "Ewan Howell",
+    "height": 44,
+    "border": 126,
+    "faces": [
+      [0, 40],
+      [42, 82],
+      [84, 124 ]
+    ],
+    "ends": [
+      [0, 0, 40, 40],
+      [42, 42, 82, 82],
+      [84, 84, 124, 124]
+    ],
+    "autoBorder": true,
+    "forcedTerminators": true,
+    "overlay": true,
+    "flat": true
+  },
+  {
+    "id": "minecraft-seven",
+    "author": "Ewan Howell",
+    "height": 46,
+    "border": 234,
+    "faces": [
+      [16, 58],
+      [92, 134],
+      [168, 168, 210, 216]
+    ],
+    "ends": [
+      [0, 16, 58, 74],
+      [76, 92, 134, 150],
+      [152, 168, 216, 232]
+    ],
+    "terminatorSpace": true
+  },
+  {
+    "id": "minecraft-five",
+    "author": "Ewan Howell",
+    "height": 34,
+    "border": 206,
+    "faces": [
+      [16, 46],
+      [80, 110],
+      [144, 150, 180, 188]
+    ],
+    "ends": [
+      [0, 16, 46, 62],
+      [64, 80, 110, 126],
+      [128, 144, 188, 204]
+    ],
+    "terminatorSpace": true
   },
   {
     "id": "minecraft-wiki",
