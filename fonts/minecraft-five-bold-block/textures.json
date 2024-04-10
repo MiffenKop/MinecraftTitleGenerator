@@ -8,6 +8,14 @@
     },
     "neon": {
       "author": "MCAlexisYT"
+    },
+    "bedrock_button": {
+      "author": "Klayv",
+      "variants": {
+        "bedrock_button_unpressed": {
+          "name": "Bedrock Button (Unpressed)"
+        }
+      }
     }
   },
   "overlays": {
@@ -20,7 +28,6 @@
       "author": "Shrimpsnail"
     },
     "drop_shadow": {
-      "name": "Drop Shadow",
       "author": "Ewan Howell"
     },
     "drop_shadow_left": {
@@ -30,6 +37,10 @@
     "drop_shadow_right": {
       "name": "Drop Shadow (Right)",
       "author": "Ewan Howell"
+    },
+    "bedrock": {
+      "name": "Bedrock Button",
+      "author": "Klayv"
     }
   }
 }
