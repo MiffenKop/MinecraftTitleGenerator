@@ -2,3 +2,5 @@ scripts/node_modules/
 scripts/temp/
 scripts/log/
 fonts/minecraft-wiki/textures/examples.bbmodel
+node_modules/
+*.bak
