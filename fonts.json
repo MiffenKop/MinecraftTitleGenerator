@@ -205,6 +205,8 @@
     "width": 28,
     "height": 48,
     "border": 288,
+    "characterSpacing": -4,
+    "preview": "wiki",
     "faces": [
       [2, 44],
       [54, 94],
