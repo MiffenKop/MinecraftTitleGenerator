@@ -1022,6 +1022,7 @@
   "shapes/heart/textures/yellow.png": "33b1b7bb58bedb6892c67fbfbc4d759b2e70b3d27a3841ddc5427b18287c6ab5",
   "shapes/heart/thumbnails/hardcore.png": "1e8a8a4ff2d67d95af555cd3c03ab3d2e6c501607b77c84d84ee71de8a6ab456",
   "shapes/heart/textures/hardcore.png": "1b539db6324dc827f21e9bad2dca06f20997ba155c54c41db8d5b5f6cd995346",
+<<<<<<< HEAD
   "fonts/minecraft-ten-cyrillic/thumbnails/fired.png": "05ccabb1cf614772e50740acf804129362995f309b0b2dd80c43a9c74601fc37",
   "shapes/minecraft-ten-blank/thumbnails/coconut.png": "972dcdf5fb69c885e23f21e7d7ddfeaf266b98bd9a8bc5c3d36d34065b1c1e60",
   "shapes/minecraft-ten-blank/thumbnails/fired.png": "36851d1d0efe9c874bee6a0f27194f1958ed85f1c89c3393e462de088c079e41",
@@ -1100,4 +1101,10 @@
   "shapes/cube/textures/devil.png": "b0da6dae68a0b1224db060b5971217156adfaddc1f9698712bf5d442105d9d18",
   "shapes/cube/thumbnails/smiling_divel.png": "4e39b6a5caebcb7e6cf5838a24ca2135a72c8c6a80c4fe9359f3241911210725",
   "shapes/minecraft-ten-blank/thumbnails/glow_squid_text.png": "e7866b8443577824db1e36ab7b5a260c98191ac2e81ada3850f26857ed614477"
+=======
+  "fonts/minecraft-wiki/thumbnails/flat.png": "9cfcca371cd03e8122ed3c074f4c44ca7068911f38fc4a97e51e657b71d50947",
+  "fonts/minecraft-wiki/thumbnails/none.png": "95e5a0797dca96b7375dedc029fad47498be79a02d0c389c7bf7eeafbdf3abae",
+  "fonts/minecraft-wiki/overlays/overlay.png": "6fdb837fdd7732abb26414a84ba4d4f9b3f625632a6ccc4e9907b735704e7854",
+  "fonts/minecraft-wiki/textures/flat.png": "45c2261e1c9038c383e8ee98cbd8c49618a50c624cc7d4b0a16a656e11630dd0"
+>>>>>>> 076c826 (Re-Compiled)
 }
