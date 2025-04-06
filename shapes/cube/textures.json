@@ -1,0 +1,38 @@
+{
+  "textures": {
+    "flat": {
+      "author": "Ewan Howell"
+    },
+    "grass": {
+      "author": "Ewan Howell"
+    },
+    "cobblestone": {
+      "author": "Ewan Howell"
+    },
+    "steve": {
+      "category": "Skins",
+      "author": "B1tseK",
+      "variants": {
+        "alex": {},
+        "ari": {},
+        "creaking_mask": {},
+        "efe": {},
+        "kai": {},
+        "makena": {},
+        "noor": {},
+        "pale_lamberjack": {},
+        "sunny": {},
+        "zuri": {}
+      }
+    }
+  },
+  "overlays": {
+    "borders": {
+      "author": "Ewan Howell"
+    },
+    "borders_thin": {
+      "name": "Borders (Thin)",
+      "author": "Ewan Howell"
+    }
+  }
+}
