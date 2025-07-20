@@ -271,22 +271,22 @@
     }
   },
   {
-    "id": "minecraft-wiki",
-    "author": "Miffen Kop",
-    "width": 28,
-    "height": 48,
-    "border": 288,
-    "characterSpacing": -4,
-    "preview": "wiki",
-    "faces": [
-      [2, 44],
-      [54, 94],
-      [104, 144]
-    ],
-    "ends": [
-      [0, 4, 44, 48],
-      [50, 54, 94, 98],
-      [100, 104, 144, 148]
-    ]
-  }
+  "id": "minecraft-wiki",
+  "author": "Miffen Kop",
+  "width": 28,
+  "height": 48,
+  "border": 288,
+  "characterSpacing": -4,
+  "preview": "wiki",
+  "faces": [
+    [2, 44],
+    [54, 94],
+    [104, 144]
+  ],
+  "ends": [
+    [0, 4, 44, 48],
+    [50, 54, 94, 98],
+    [100, 104, 144, 148]
+  ]
+}
 ]
