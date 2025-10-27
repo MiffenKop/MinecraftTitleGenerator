@@ -76,13 +76,13 @@
       "author": "ShrimpSnail, DamienBrittan, & blank3times",
       "variants": {
         "flowers": {
-          "author": "SzyszaDev"
+          "author": "0Szysza"
         },
         "grass_side": {
           "author": "Magminer & Ewan Howell"
         },
         "grass_side_flowers": {
-          "author": "Magminer & Ewan Howell & SzyszaDev"
+          "author": "Magminer & Ewan Howell & 0Szysza"
         },
         "podzol": {},
         "mycelium": {},
@@ -148,7 +148,7 @@
         },
         "cake_minecraft": {
           "name": "Cake (Minecraft)",
-          "author": "Ewan Howell & SzyszaDev"
+          "author": "Ewan Howell & 0Szysza"
         }
       }
     },
@@ -363,7 +363,7 @@
       "author": "Ewan Howell"
     },
     "tiles": {
-      "author": "SzyszaDev"
+      "author": "0Szysza"
     },
     "bevel_highlight_bottom": {
       "name": "Bevel Highlight (Bottom)",
@@ -382,7 +382,7 @@
       "author": "FloideN"
     },
     "cartoon": {
-      "author": "leosz13"
+      "author": "Gyak"
     },
     "outline_fade": {
       "author": "blank3times"
